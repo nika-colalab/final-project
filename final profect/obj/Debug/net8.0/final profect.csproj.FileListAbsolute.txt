@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\final profect\bin\Debug\net8.0\final profect.exe
+C:\Users\student\source\repos\final profect\bin\Debug\net8.0\final profect.deps.json
+C:\Users\student\source\repos\final profect\bin\Debug\net8.0\final profect.runtimeconfig.json
+C:\Users\student\source\repos\final profect\bin\Debug\net8.0\final profect.dll
+C:\Users\student\source\repos\final profect\bin\Debug\net8.0\final profect.pdb
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.AssemblyInfo.cs
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.dll
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\refint\final profect.dll
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.pdb
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\final profect.genruntimeconfig.cache
+C:\Users\student\source\repos\final profect\obj\Debug\net8.0\ref\final profect.dll
